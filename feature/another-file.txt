@@ -3,3 +3,5 @@ ANother file in feature-1 branch
 This file was modified change in feature-2
 
 This line was added in feature-2
+
+Another modification feature-2
